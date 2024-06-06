@@ -1,3 +1,0 @@
-image-file: saturn-v.png
-description: Saturn V rocket
-resolution: 2.6683 cm
